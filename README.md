@@ -10,4 +10,5 @@ Para este proyecto usamos
 6- Spring BOOT 2.2.7.RELEASE
 7- JPA
 8- Thymeleaf
-9- Lombok
+9- Bootstrap 4.5
+10- Lombok
